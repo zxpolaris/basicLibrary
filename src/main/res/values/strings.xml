@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">basicLibrary</string>
+
+    <string name="basic_library_time_mm_dd">MM月dd日</string>
+    <string name="basic_library_time_yyyy_mm">yyyy年MM月</string>
+    <string name="basic_library_time_yyyy_mm_dd">yyyy年MM月dd日</string>
+    <string name="basic_library_format_x_minutes_ago">%1$s分钟前</string>
+    <string name="basic_library_just_now">刚刚</string>
+
+    <!-- 下拉控件 -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开后刷新</string>
+    <string name="xlistview_header_hint_refreshing">正在刷新\u2026</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal"></string>
+    <string name="xlistview_footer_hint_ready">松开后加载</string>
+    <string name="xlistview_footer_hint_loading">正在加载\u2026</string>
+    <string name="xlistview_footer_newest_time">1分钟前</string>
+    <string name="pull_to_refresh_header_normal">下拉刷新</string>
+    <string name="pull_to_refresh_header_ready">松开后刷新</string>
+    <string name="pull_to_refresh_header_refreshing">正在刷新\u2026</string>
+    <string name="pull_to_refresh_footer_normal">上拉加载更多</string>
+    <string name="pull_to_refresh_footer_ready">松开后加载</string>
+    <string name="pull_to_refresh_footer_loading">正在加载\u2026</string>
+
+    <string name="image_content_desc">这是一张图片</string>
+    <string name="btn_finish">完成</string>
+
+    <string name="IP_PORT">http://user.swarm.pxsj.com</string>
+    <string name="PUSH_IP_PORT">http://msg.swarm.pxsj.com</string>
+    <string name="PUSH_IP">"msg.swarm.pxsj.com</string>
+    <string name="ASSET_IP">http://3rdapi.swarm.pxsj.com</string>
+
+</resources>

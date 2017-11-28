@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="xlistview_text_color">#3e3a39</color>
+    <color name="swipe_refresh_color">#f3632a</color>
+    <color name="bg_default_photo_color">#ffffff</color>
+
+    <color name="actionbar_bg_color">#ffffff</color>
+    <color name="actionbar_bottom_line_color">#bbbbbb</color>
+
+    <color name="primary_hover">#f3632a</color>
+    <color name="primary">#333333</color>
+    <color name="normal_3">#bebebe</color>
+
+    <color name="black">#000000</color>
+</resources>

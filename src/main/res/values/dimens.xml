@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="swipe_refresh_start">24dp</dimen>
+    <dimen name="swipe_refresh_end">32dp</dimen>
+
+    <dimen name="actionbar_height">44dp</dimen>
+    <dimen name="actionbar_title_text_size">20dp</dimen>
+    <dimen name="actionbar_right_text_size">16dp</dimen>
+    <dimen name="actionbar_title_max_width">160dp</dimen>
+
+    <dimen name="common_margin_normal">12dp</dimen>
+    <dimen name="common_line_size">0.5dp</dimen>
+</resources>
